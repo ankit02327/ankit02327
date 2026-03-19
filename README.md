@@ -1,17 +1,4 @@
-<!-- HEADER -->
-<p align="center">
-  <a href="https://github.com/ankit02327">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/ankit2327">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ankit2327@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
----
 
 ## `$ whoami`
 
@@ -31,10 +18,6 @@ environment:
 philosophy:  "Build systems. Optimize relentlessly. Stay consistent."
 status:      Open to internships & collaborations
 ```
-
-> 💬 Ask me about **Backend architecture**, **Django REST APIs**, **Linux workflows**, **Neovim setup**, or **full-stack system design**.
-
----
 
 ## 💻 Tech Stack
 
