@@ -1,9 +1,5 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a1a2e,80:16213e,100:0f3460&height=220&section=header&text=ANKIT%20KUMAR&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Architect%20%E2%80%A2%20Systems%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Developer%20Tooling&descAlignY=60&descSize=17&descColor=a0c4ff"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/ankit02327">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -12,9 +8,6 @@
   </a>
   <a href="mailto:ankit2327@protonmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ankit02327&icon=6&color=6"/>
   </a>
 </p>
 
