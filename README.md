@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 
 ## `$ whoami`
@@ -18,7 +19,6 @@ environment:
 philosophy:  "Build systems. Optimize relentlessly. Stay consistent."
 status:      Open to internships & collaborations
 ```
-## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,7 +28,6 @@ status:      Open to internships & collaborations
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
----
 
 ### AI / ML & Data
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -40,7 +39,7 @@ status:      Open to internships & collaborations
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
----
+
 
 <table>
 <tr>
@@ -88,14 +87,6 @@ status:      Open to internships & collaborations
 </tr>
 </table>
 
----
-
-
-
-
-
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankit02327&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
@@ -106,4 +97,3 @@ status:      Open to internships & collaborations
   <img src="https://nirzak-streak-stats.vercel.app/?user=ankit02327&theme=tokyonight&hide_border=true"/>
 </p>
 
----
