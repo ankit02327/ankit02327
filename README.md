@@ -4,18 +4,6 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" height="180">
 </p>
 <br>
-<details>
-  <summary><b></b></summary>
-
-```text
-architecture      ████████████████████░░░
-scalability       ███████████████████░░░░
-performance       ████████████████████░░░
-internals         ██████████████████░░░░░
-tooling           ███████████████████░░░░
-```
-
-</details>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
