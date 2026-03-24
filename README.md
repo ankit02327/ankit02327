@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" height="180">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" height="180">
 </p>
-
+<br><br>
 <details>
   <summary><b>Focus</b></summary>
 
