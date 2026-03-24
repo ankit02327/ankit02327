@@ -3,23 +3,22 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" height="180">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" height="180">
 </p>
-## `$ whoami`
 
-```yaml
-name:        Ankit Kumar
-role:        Computer Science Undergraduate
+<details>
+  <summary><b>engineering philosophy</b></summary>
+
+```text
+build simple systems
+keep them fast
+make them last
+
 focus:
-  - Backend architecture & scalable systems
-  - CMS internals & developer tooling
-  - Distributed systems & performance optimization
-  - Applied ML engineering & DevOps automation
-environment:
-  os:        Linux (Debian trixie/sid)
-  editor:    Neovim
-  shell:     Bash 5.2
-  kernel:    6.12.25-amd64
-philosophy:  "Build systems. Optimize relentlessly. Stay consistent."
-status:      Open to internships & collaborations
+architecture      ████████████████████░░░
+scalability       ███████████████████░░░░
+performance       ████████████████████░░░
+internals         ██████████████████░░░░░
+tooling           ███████████████████░░░░
+</details>
 ```
 
 ### Languages
@@ -29,7 +28,6 @@ status:      Open to internships & collaborations
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
 
 ### AI / ML & Data
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
