@@ -5,7 +5,7 @@
 </p>
 <br>
 <details>
-  <summary><b>Focus</b></summary>
+  <summary><b>::</b></summary>
 
 ```text
 architecture      ████████████████████░░░
