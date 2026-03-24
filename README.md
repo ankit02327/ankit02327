@@ -5,14 +5,9 @@
 </p>
 
 <details>
-  <summary><b>engineering philosophy</b></summary>
+  <summary><b>focus</b></summary>
 
 ```text
-build simple systems
-keep them fast
-make them last
-
-focus:
 architecture      ████████████████████░░░
 scalability       ███████████████████░░░░
 performance       ████████████████████░░░
