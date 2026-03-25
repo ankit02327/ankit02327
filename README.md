@@ -70,6 +70,6 @@
 </p>
 
 <p align="center">
-  <img height="170" width="520" src="https://github-readme-activity-graph.vercel.app/graph?username=ankit02327&theme=tokyo-night&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit02327&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="190" src="https://github-readme-activity-graph.vercel.app/graph?username=ankit02327&theme=tokyo-night&hide_border=true"/>
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit02327&layout=donut&theme=tokyonight&hide_border=true"/>
 </p>
