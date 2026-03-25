@@ -70,6 +70,6 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=ankit02327&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=ankit02327&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=ankit02327&theme=tokyo-night&hide_border=true"/>
 </p>
