@@ -68,7 +68,7 @@
   <img src="https://komarev.com/ghpvc/?username=ankit02327&label=PROFILE+VIEWS&color=lightgrey&style=flat-square" />
 </p>
 <p align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=ankit02327&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="145" src="https://readme-stats-fast.vercel.app/api?username=ankit02327&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="145" src="https://streak-stats.demolab.com?user=ankit02327&theme=tokyonight&hide_border=true"/>
 </p>
 
